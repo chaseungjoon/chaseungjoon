@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Future Ai Dev
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
