@@ -17,6 +17,6 @@
 
 ### 💻CAU CSE
 
-<a href="instagram.com/chsngjun_" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/chsngjun_" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 <a href="https://www.youtube.com/channel/UCAZcoqt0gTqY4pVgEgVeReA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://open.spotify.com/user/31r7z4nnwyqmzaehhovj7mkpaite?si=fab01ea9439f4625" target="_blank"><img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
