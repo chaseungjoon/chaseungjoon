@@ -15,9 +15,9 @@
 
 <br/>
 
-### 💻CAU CSE
+### 👨‍🎓 CAU CSE
+### 🖥️ Windows / MacOS
 ### 🤖 ML / DL / AI / AGI
-
 
 <br/>
 
