@@ -17,7 +17,7 @@
 
 ### 👨‍🎓 CAU CSE
 ### 🖥️ Windows / MacOS
-### 🤖 ML / DL / AI / AGI
+### 🤖 Currently Learning >> Anaconda / TensorFlow
 
 <br/>
 
