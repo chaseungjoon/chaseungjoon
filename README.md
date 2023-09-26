@@ -24,7 +24,7 @@
 
 ### 💻 Online Judges
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=480&height=173&theme=unicorn&font=sourcecodepro)
+![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=480&height=176&theme=unicorn&font=sourcecodepro)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
   
 </div>
@@ -38,7 +38,11 @@
 ### 👨‍🎓 CAU CSE
 ### 🤖 ML / DL / Data Analysis
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=dark">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=tokyonight">
+
+</div>
 
 <a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="https://chaseungjoon.notion.site/baekjoon-codes-384e15b2e16b4adc9527472e17752c27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
