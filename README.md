@@ -7,12 +7,18 @@
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
-
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
 
 
+
+#
+
 <br/>
 
+
+### 💻 Online Judges
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=480&height=173&theme=unicorn&font=sourcecodepro)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
   
 </div>
