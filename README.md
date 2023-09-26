@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00B4FF&text=➫&fontColor=90D2D8)
 
+### ❗ Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 
@@ -47,4 +48,7 @@
 </div>
 
 <a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="https://chaseungjoon.notion.site/baekjoon-codes-384e15b2e16b4adc9527472e17752c27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cktmdwns604&color=dark)](https://velog.io/@cktmdwns604)
+
 
