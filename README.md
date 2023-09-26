@@ -10,23 +10,23 @@
 
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
 
+
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
   
 </div>
-
-<br/>
-
+  
 #
 
 <br/>
 
 ### <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-### 👨‍🎓 CAU CSE - Sophomore
+
+### 👨‍🎓 CAU CSE
 ### 🤖 ML / DL / Data Analysis
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=dark">
 
 <a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="https://chaseungjoon.notion.site/baekjoon-codes-384e15b2e16b4adc9527472e17752c27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
