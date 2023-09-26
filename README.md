@@ -24,8 +24,8 @@
 
 ### 💻 Online Judges
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=480&height=176&theme=unicorn&font=sourcecodepro)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=480&height=180&theme=unicorn&font=sourcecodepro)
   
 </div>
   
