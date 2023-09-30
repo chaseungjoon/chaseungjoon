@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
 
 **Dev Day 2023 - Participant**
-----
+#
 
 
 <br/>
