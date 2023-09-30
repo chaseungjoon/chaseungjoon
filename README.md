@@ -17,9 +17,13 @@
 
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
 
-
-
 #
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
+
+**Dev Day 2023 - Participant**
+----
+
 
 <br/>
 
@@ -41,6 +45,7 @@
 
 ### 👨‍🎓 CAU CSE
 ### 🤖 ML / DL / Data Analysis
+
 
 <div align="center">
 
