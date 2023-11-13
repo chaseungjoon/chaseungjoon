@@ -22,6 +22,11 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
 
 **Dev Day 2023 - Participant**
+
+<img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/> 
+
+**SDC 2023 - Participant**
+
 #
 
 
