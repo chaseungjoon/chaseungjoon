@@ -62,6 +62,4 @@
 
 <a href="https://velog.io/@cktmdwns604" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="https://chaseungjoon.notion.site/baekjoon-codes-384e15b2e16b4adc9527472e17752c27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cktmdwns604&color=dark)](https://velog.io/@cktmdwns604)
-
 
