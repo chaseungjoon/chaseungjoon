@@ -10,8 +10,7 @@
 
 **🧠 Learning**
 
-<img src="https://img.shields.io/badge/Mojo-B32629?style=for-the-badge&logo=Fireship&logoColor=white"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
-
+<img src="https://img.shields.io/badge/Mojo-B32629?style=for-the-badge&logo=Fireship&logoColor=white"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white">
 
 **🖥️ Code Editor & IDE**
 
