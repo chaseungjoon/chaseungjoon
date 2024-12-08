@@ -55,6 +55,7 @@
 
 <a href="https://app.daily.dev/joon_cha"><img src="https://api.daily.dev/devcards/v2/vYruc2Y7jcdtnPPeUdHxA.png?r=cx8&type=default" width="356" alt="joon's Dev Card"/></a>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6755677cecc889bb0d3ce6fb?variant=dark&roadmaps=backend%2Cai-data-scientist" alt="roadmap.sh"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=tokyonight">
 
