@@ -15,7 +15,7 @@
 
 **🖥️ Code Editor & IDE**
 
-<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/ZED-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
 
 #
 
