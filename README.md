@@ -11,7 +11,7 @@
 
 **🧠 Learning**
 
-<img src="https://img.shields.io/badge/Mojo-B32629?style=for-the-badge&logo=Fireship&logoColor=white"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white">
 
 **🖥️ Code Editor & IDE**
 
