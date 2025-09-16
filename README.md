@@ -51,7 +51,7 @@
 ### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 ### 👨‍🎓 CAU CSE
-### 🤖 MLDL / NLP / Data Analysis
+### 🤖 ML / DL / RL 
 
 
 <div align="center">
