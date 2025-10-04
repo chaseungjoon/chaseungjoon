@@ -4,18 +4,18 @@
 
 **📚 Tech Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
 
 
 **🧠 Learning**
 
-<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"><img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
 
 **🖥️ Code Editor & IDE**
 
-<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/VSCode-084CCF?style=for-the-badge&logo=vscode&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/><img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-00DD79?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-00AFCF?style=for-the-badge&logo=CLion&logoColor=white"/>
 
 #
 
