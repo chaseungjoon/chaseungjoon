@@ -48,7 +48,7 @@
 
 <br/>
 
-### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
 
 ### 👨‍🎓 CAU CSE
 ### 🤖 RL / NLP / Embedded Software
