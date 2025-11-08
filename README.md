@@ -49,10 +49,13 @@
 <br/>
 
 ### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
+### 🖥️ AMD Ryzen9 9950X | DDR5 64GB | NVIDIA GeForce RTX 5070
+### 💻 Macbook Air 13 (M2, 2022) 
+
+#
 
 ### 👨‍🎓 CAU CSE
-### 🤖 RL / NLP / Embedded Software
-
+### 🤖 RL / World Models / NLP
 
 <div align="center">
 
