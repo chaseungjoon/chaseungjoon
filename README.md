@@ -61,8 +61,8 @@
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=tokyonight">
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=chaseungjoon)
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseungjoon&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=chaseungjoon&show_icons=true&theme=tokyonight">-->
 
 </div>
 
