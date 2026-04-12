@@ -31,24 +31,13 @@
 
 **SDC 2023 - Participant**
 
-#
 
 
-<br/>
 
-
-**💻 Online Judges**
-
-<br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktmdwns604)](https://solved.ac/cktmdwns604/)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/cktmdwns604?width=490&height=180&theme=unicorn&font=sourcecodepro)](https://leetcode.com/cktmdwns604/)
-  
 </div>
   
 #
 
-<br/>
 
 ### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
