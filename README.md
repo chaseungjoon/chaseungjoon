@@ -11,11 +11,7 @@
 <a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a>
 
 
-**🧠 Learning**
-
-<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white">
-
-**🖥️ Code Editor & IDE**
+**🖥️ IDE**
 
 <a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/PyCharm-58C1EF?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-EA478B?style=for-the-badge&logo=CLion&logoColor=white"/>
 
