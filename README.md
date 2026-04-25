@@ -11,11 +11,11 @@
 <a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a>
 
 
-**🖥️ IDE**
-
-<a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/PyCharm-58C1EF?style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/CLion-EA478B?style=for-the-badge&logo=CLion&logoColor=white"/>
-
 #
+
+<img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white"/> 
+
+**RAS Summer School 2026 - Participant**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
 
@@ -35,7 +35,7 @@
 #
 
 
-### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
 
 ### 👨‍🎓 CAU CSE
@@ -46,9 +46,4 @@
 
 
 </div>
-
-<br/>
-
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=cktmdwns604)](https://velog.io/@cktmdwns604)<a href="https://chaseungjoon.notion.site/baekjoon-codes-384e15b2e16b4adc9527472e17752c27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-
 
