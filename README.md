@@ -39,7 +39,7 @@
 
 
 ### 👨‍🎓 CAU CSE
-### 🤖 RL / World Models / Physical AI / NLP
+### 🤖 RL / World Models / Physical AI / Robotics AI
 
 <div align="center">
 
