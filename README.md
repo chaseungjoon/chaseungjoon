@@ -34,7 +34,7 @@
 #
 
 
-### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 
 ### 👨‍🎓 CAU CSE
