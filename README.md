@@ -12,19 +12,23 @@
 
 #
 
+<img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=white"/> 
+
+**ESSAI 2026 - Attendee**
+
 <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white"/> 
 
-**RAS Summer School 2026 - Participant**
+**RAS Summer School 2026 - Selected Participant**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
 
-**DevDay 2023 - Participant**
+**DevDay 2023 - Invited Student**
 
-**DevDay 2025 - Participant**
+**DevDay 2025 - Invited Student**
 
 <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/> 
 
-**SDC 2023 - Participant**
+**SDC 2023 - Attendee**
 
 
 
