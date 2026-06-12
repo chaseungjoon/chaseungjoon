@@ -9,7 +9,6 @@
 
 <a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a>
 
-
 #
 
 <img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=white"/> 
@@ -22,31 +21,24 @@
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
 
-**DevDay 2023 - Invited Student**
-
 **DevDay 2025 - Invited Student**
+
+**DevDay 2023 - Invited Student**
 
 <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/> 
 
 **SDC 2023 - Attendee**
-
-
-
-
-</div>
   
 #
 
+👨‍🎓 CSE Undergrad @ [Chung-Ang University](https://cse.cau.ac.kr/main.php)
 
-### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/><img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+👨‍🔬 Reasearch Intern @ [IDLab-AIRO, Universiteit Gent](https://airo.ugent.be)
 
-
-### 👨‍🎓 CAU CSE
-### 🤖 RL / World Models / Physical AI / Robotics AI
-
-<div align="center">
-
-
+#
 
 </div>
 
+### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/><img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+
+🤖 [RL](https://github.com/WildFirePrediction/ai) / [Agents](https://github.com/chaseungjoon/multi-agent-kernel) / World Models / Physical AI / Robotics AI
