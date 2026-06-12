@@ -24,10 +24,6 @@
 **DevDay 2025 - Invited Student**
 
 **DevDay 2023 - Invited Student**
-
-<img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>  
-
-**SDC 2023 - Attendee**
   
 #
 
@@ -39,6 +35,6 @@
 
 </div>
 
-### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/pi5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><a href="https://github.com/chaseungjoon/tmux.config" target="_blank"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a><img src="https://img.shields.io/badge/tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white"/>
+### <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/pi5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/><a href="https://github.com/chaseungjoon/nvim.config" target="_blank"><img src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a><a href="https://github.com/chaseungjoon/tmux.config" target="_blank"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
 
-🧑‍💻 **[RL](https://github.com/WildFirePrediction/ai)  |  [Multi Agent Systems](https://github.com/chaseungjoon/multi-agent-kernel) | World Models |  Physical AI | Robotics AI**
+🧑‍💻 &nbsp; **[RL](https://github.com/WildFirePrediction/ai) &nbsp;  | &nbsp; [Multi Agent Systems](https://github.com/chaseungjoon/multi-agent-kernel) &nbsp; | &nbsp; World Models &nbsp; |  &nbsp; Physical AI &nbsp; |&nbsp;  Robotics AI**
