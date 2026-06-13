@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00B4FF&text=➫&fontColor=90D2D8)
 
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/rust-B7410E?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><img src="https://img.shields.io/badge/GYMNASIUM-0081A5?style=for-the-badge&logo=openaigym&logoColor=white"/><img src="https://img.shields.io/badge/ros2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><img src="https://img.shields.io/badge/GYMNASIUM-0081A5?style=for-the-badge&logo=openaigym&logoColor=white"/>
 
 <a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a>
 
