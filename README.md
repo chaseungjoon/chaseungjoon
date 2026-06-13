@@ -11,7 +11,7 @@
 
 #
 
-<img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=yellow"/>  
 
 **ESSAI 2026 - Attendee**
 
