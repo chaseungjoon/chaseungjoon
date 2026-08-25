@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-<a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a>
+<a href="https://huggingface.co/chaseungjoon" target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=Huggingface&logoColor=white"/></a><a href="https://wandb.ai/cktmdwns" target="_blank"><img src="https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a>
 
 #
 
