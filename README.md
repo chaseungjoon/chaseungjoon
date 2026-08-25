@@ -36,5 +36,3 @@
 #
 
 🧑‍🎓 **CSE Undergraduate @ [Chung-Ang University](https://cse.cau.ac.kr/main.php)**
-
-🧑‍💻 **AI & Robotics Intern @ [Spatial Intelligence Lab., Chung-Ang University](https://bluedream1121.github.io/spatial-intelligence-lab)**
