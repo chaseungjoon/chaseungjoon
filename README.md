@@ -11,6 +11,12 @@
 
 #
 
+🧑‍🎓 **CSE Undergraduate @ [Chung-Ang University](https://cse.cau.ac.kr/main.php)**
+
+🧑‍💻 **Undergraduate Research Intern @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
+
+#
+
 <img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=yellow"/>  
 
 **ESSAI 2026 - Attendee**
@@ -34,7 +40,3 @@
 &nbsp; **[RL](https://github.com/WildFirePrediction/ai) &nbsp;  | &nbsp; [Multi Agent Systems](https://github.com/chaseungjoon/multi-agent-kernel) &nbsp; | &nbsp; World Models &nbsp; |  &nbsp; Physical AI &nbsp; |&nbsp;  [Robotics AI](https://github.com/chaseungjoon/internship-idlab-airo) &nbsp; | &nbsp; [Data Processing](https://huggingface.co/datasets/chaseungjoon/wildfire-korea-episodes-300m)** 
 
 #
-
-🧑‍🎓 **CSE Undergraduate @ [Chung-Ang University](https://cse.cau.ac.kr/main.php)**
-
-🧑‍💻 **Research Intern @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
