@@ -13,7 +13,7 @@
 
 🧑‍🎓 **CSE Undergraduate @ [Chung-Ang University](https://cse.cau.ac.kr/main.php)**
 
-🧑‍💻 **Undergraduate Research Intern @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
+🧑‍💻 **Undergraduate Researcher @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
 
 #
 
