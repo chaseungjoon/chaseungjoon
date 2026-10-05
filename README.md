@@ -41,4 +41,4 @@
 
 #
 
-> Personal Toy Projects are at [@sjcsoftware](https://www.github.com/sjcsoftware)
+> Personal toy projects are at [@sjcsoftware](https://www.github.com/sjcsoftware)
