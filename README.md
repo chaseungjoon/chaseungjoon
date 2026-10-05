@@ -40,3 +40,5 @@
 &nbsp; **[Deep RL](https://github.com/WildFirePrediction/ai) &nbsp;  | &nbsp; [Multi Agent Systems](https://github.com/chaseungjoon/multi-agent-kernel) &nbsp; | &nbsp; World Models &nbsp; |  &nbsp; Physical AI &nbsp; |&nbsp;  [Robotics](https://github.com/chaseungjoon/internship-idlab-airo) &nbsp; | &nbsp; [Data Processing](https://huggingface.co/datasets/chaseungjoon/wildfire-korea-episodes-300m)** 
 
 #
+
+> Personal Toy Projects are at [@sjcsoftware](https://www.github.com/sjcsoftware)
