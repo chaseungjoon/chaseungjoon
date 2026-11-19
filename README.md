@@ -15,7 +15,7 @@
 
 🧑‍💻 **Undergraduate Researcher @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
 
-🖥️ **Founder @ [reFLOP AI](https://www.reflopai.com)**
+🖥️ **Founder & CTO @ [reFLOP AI](https://www.reflopai.com)**
 
 #
 
