@@ -15,6 +15,8 @@
 
 🧑‍💻 **Undergraduate Researcher @ [VGI Lab, Seoul National University](https://jaesik.info/lab)**
 
+🖥️ **Co-Founder @ [reFLOP AI](https://www.reflopai.com)**
+
 #
 
 <img src="https://img.shields.io/badge/ESSAI-003399?style=for-the-badge&logo=europeanunion&logoColor=yellow"/>  
